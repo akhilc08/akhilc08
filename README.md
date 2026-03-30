@@ -38,11 +38,10 @@
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| **[Legion](https://github.com/akhilc08/legion)** | Distributed AI agent orchestration — CEO agent decomposes goals, hires/manages teams of Claude agents with exactly-once execution | `Go` `PostgreSQL` `WebSockets` `React` |
 | **[FlavorNet](https://flavornet.vercel.app)** | GNN for ingredient pairings — 400k+ recipes, InfoNCE contrastive loss | `PyTorch` `GNN` |
 | **[Cognitive Load Mapper](https://github.com/akhilc08/Cognitive-Load-Mapper)** | BiLSTM+Attention, MediaPipe — 30fps, 3.7 MAE, 86 users | `TensorFlow` `MediaPipe` |
 | **[Necto](https://usenecto.com)** | Cold outreach automation for finance recruiting | `Claude API` `TypeScript` |
-| **[Coast](https://drivewithcoast.com)** | Vehicle marketplace — 2 active clients | `Next.js` `Supabase` |
-| **[Skyops](https://skyops-ai.vercel.app)** | Private aviation ops dashboard — 65% intake time reduction | `Claude SDK` `React` |
 | **[NotchNook Clone](https://github.com/akhilc08/NotchNook-Clone)** | macOS notch utility | `SwiftUI` |
 | **[Mass Email Automation](https://github.com/akhilc08/Mass-Email-Automation)** | Bulk personalized email at scale | `Python` |
 
@@ -77,17 +76,6 @@
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilc08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilc08&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
