@@ -17,22 +17,12 @@
 
 ### ⚡ Now
 
-- **AI Implementation Intern @ [PersonaAI](https://personaai.com)** — GPT-4 pipeline, Supabase Edge Functions, 40% token reduction
+- **Intern @ VHB** — Cutting analyst time by 66% over 10k+ crashes annually
 - **Developer @ Generative AI at Cornell** — 10k+ leads pipeline, Claude API cold emails, Redis/BullMQ
 - **Technology Implementation Associate @ Cornell Data & Strategy** — LightGBM classifier, gradient boosting R²=0.90
 
 ---
 
-### 🔬 Research
-
-| Where | What |
-|-------|------|
-| **NC State** | First-author IEEE Xplore paper — CNN ensemble for MS diagnosis (97.5% acc, 97.8% AUC-ROC), skin cancer fairness +37% |
-| **Duke University** | NLP + LDA topic modeling, 0.71 coherence score |
-| **HEALLY** | ML Research Associate |
-| **VHB** | PDF-to-form pipeline (66% time cut), RAG LLM layer w/ Claude API ~90% accuracy |
-
----
 
 ### 🏗 Featured Projects
 
