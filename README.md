@@ -1,6 +1,6 @@
 <div align="center">
 
-# Akhil Chilaka
+# Saiakhil Chilaka
 
 **Building full-stack products and ML systems.**
 **First-author IEEE Xplore publication. Ships things people actually use.**
