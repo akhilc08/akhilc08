@@ -5,7 +5,7 @@
 **Building full-stack products and ML systems.**
 **First-author IEEE Xplore publication. Ships things people actually use.**
 
-`AI Intern @ PersonaAI` · `Cornell CS` · `Building things`
+`Intern @ VHB` · `Cornell CS` · `Building things`
 
 [![Portfolio](https://img.shields.io/badge/akhilchilaka.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilchilaka.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilchilaka)
