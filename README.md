@@ -5,7 +5,7 @@
 **Building ML systems and full-stack products.**
 **First-author IEEE Xplore publication. Ships things people actually use.**
 
-`Cornell CS & Statistics` · `Cornell Data & Strategy` · `Gen AI @ Cornell`
+`Cornell CS` · `Cornell Data & Strategy` · `Gen AI @ Cornell`
 
 [![Portfolio](https://img.shields.io/badge/akhilchilaka.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilchilaka.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilchilaka)
