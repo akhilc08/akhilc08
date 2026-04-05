@@ -18,7 +18,7 @@
 ### ⚡ Now
 
 - **Technology Implementation Associate @ Cornell Data & Strategy** — LightGBM classifier disambiguating 37.6% of unresolved payer records across 100k+ discharge records; gradient boosting regressor R²=0.90 on 210k SPARCS records
-- **Lead Developer @ Generative AI at Cornell** — 10k+ startup leads pipeline from 5 sources, Claude API cold emails, PostgreSQL + Redis/BullMQ
+- **Developer @ Generative AI at Cornell** — 10k+ startup leads pipeline from 5 sources, Claude API cold emails, PostgreSQL + Redis/BullMQ
 - **Software Engineer Intern @ VHB** — PDF-to-form pipeline for 10k+ crash reports/year, RAG-style LLM classification at ~90% accuracy
 
 ---
